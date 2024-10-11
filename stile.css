@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(22, 250, 220);
+    }
+    footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: eX;
+    width: 100%;
+    }
+    footer p{
+    text-align: conter;
+    font-size: 0.6rem;
+    }
