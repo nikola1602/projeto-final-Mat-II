@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(22, 250, 220);
+    }
+    footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 0.6rm;
+    }
+    footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    }
